@@ -16,13 +16,13 @@
 3. exemplo003: <br/>
     **Diretório:** m06#13 <br />
     **Arquivo:** exemplo003_VARIAVEIS.sql <br />
-    **Asusnto:**
-      3.1 - Uso de variáveis
-      3.2 - Declarando uma variável do tipo de dado CHAR
-            Variável de tamanho fixo
-      3.3 - Declarando uma variável do tipo de dado VCHAR
-            Variável de tamanho variável
-      3.4 - Declarando uma variável do tipo DATE
+    **Asusnto:** <br />
+      3.1 - Uso de variáveis <br />
+      3.2 - Declarando uma variável do tipo de dado CHAR <br />
+            Variável de tamanho fixo <br />
+      3.3 - Declarando uma variável do tipo de dado VCHAR <br />
+            Variável de tamanho variável <br />
+      3.4 - Declarando uma variável do tipo DATE <br />
 
 ---
 ### Plataforma de aprendizagem: [Udemy](https://www.udemy.com/) 
