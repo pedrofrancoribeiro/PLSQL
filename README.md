@@ -24,6 +24,11 @@
         - Variável de tamanho variável <br />
       - Declarando uma variável do tipo DATE <br />
 
+4. exemplo004: <br/>
+    **Diretório:** m06#14 <br />
+    **Arquivo:** exemplo004_CONSTANTES.sql <br />
+    **Asusnto:** Declarando e utilizando constantes
+
 ---
 ### Plataforma de aprendizagem: [Udemy](https://www.udemy.com/) 
 
